@@ -20,8 +20,8 @@ Or install it yourself as:
 
 ## Usage
 
-```
-testestetseestestest
+```ruby
+FuntimeViewTool::Renderer.copyright 'Hunter Orges', 'All rights reserved'
 ```
 
 ## Development
