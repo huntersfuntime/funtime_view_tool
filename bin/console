@@ -11,4 +11,4 @@ require "funtime_view_tool"
 # Pry.start
 
 require "irb"
-IRB.start(__FILE__)
+IRB.start
